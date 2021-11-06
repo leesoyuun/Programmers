@@ -1,4 +1,3 @@
-```javascript
 function solution(arr) {
     var answer = []; 
     if(arr.length < 1){
@@ -16,4 +15,3 @@ function solution(arr) {
     }
     return answer;
 }
-```

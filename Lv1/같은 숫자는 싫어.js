@@ -1,4 +1,3 @@
-```javascript
 function solution(arr)
 {
     var answer = [];
@@ -10,4 +9,4 @@ function solution(arr)
     
     return answer;
 }
-```
+

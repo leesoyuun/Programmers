@@ -1,4 +1,3 @@
-```javasciprt
 function solution(n) {
     var answer = 0;
     
@@ -8,4 +7,3 @@ function solution(n) {
     }
     return answer;
 }
-```
